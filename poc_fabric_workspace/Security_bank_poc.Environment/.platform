@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "Security_bank_poc",
+    "description": "Environment"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e27b1f37-9b3b-ad41-41ed-8d6af4c123ea"
+  }
+}
