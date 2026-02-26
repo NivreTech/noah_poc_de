@@ -151,6 +151,7 @@ spark.table(target_table).select(
 ).show(20, truncate=False)
 
 spark.sql(f"SELECT COUNT(*) AS cnt FROM {target_table}").show()
+#Validate output
 
 # METADATA ********************
 
